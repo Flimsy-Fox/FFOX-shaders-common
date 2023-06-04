@@ -1,6 +1,3 @@
 [submodule "audio-link"]
 	path = audio-link
 	url = https://github.com/Flimsy-Fox/audio-link
-[submodule "ThryEditor"]
-	path = ThryEditor
-	url = https://github.com/Thryrallo/ThryEditor
